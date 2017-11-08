@@ -1,0 +1,2 @@
+# duckhunters
+miners
